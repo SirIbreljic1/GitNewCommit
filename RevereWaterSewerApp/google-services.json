@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "978194173569",
+    "firebase_url": "https://reverewaterandsewer.firebaseio.com",
+    "project_id": "reverewaterandsewer",
+    "storage_bucket": "reverewaterandsewer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978194173569:android:d22f44e20ca85ed0328780",
+        "android_client_info": {
+          "package_name": "com.revere.DPW.waterandsewerinventoryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978194173569-fsuga217al02iah9jupsq2ut6cdqfb0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaCJy6rj8BuGX30rNgxc8q5vWZpEbRgSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978194173569-fsuga217al02iah9jupsq2ut6cdqfb0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
